@@ -25,6 +25,6 @@ Route::get('/expenses', function () {
     return view('expenseslist');
 });
 
-Route::get('/master', function () {
-    return view('master');
+Route::get('/budget', function () {
+    return view('budgetlist');
 });

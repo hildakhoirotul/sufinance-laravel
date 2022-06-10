@@ -65,9 +65,14 @@ h3 {
     color: #00C897;
     font-family: roboto;
     font-weight: bolder;
-    padding: 50px;
+    padding-bottom: 50px;
     font-size: 50;
 }
+
+.fa-arrow-left{
+    padding-top: 60px;
+}
+
 .expenses-box {
   -webkit-box-shadow: 0 0 35px 0 rgba(130, 130, 130, 0.2);
           box-shadow: 0 0 35px 0 rgba(130, 130, 130, 0.2);
@@ -76,8 +81,11 @@ h3 {
 }
 
 .fa-file-text-o{
-    color: #00C897;
     padding-right: 20px;
+}
+
+.add{
+    padding-top: 60px;
 }
 
 .amount{

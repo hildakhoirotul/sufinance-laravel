@@ -16,7 +16,7 @@
         </div>
         <div class="col-md-4">
             <div class="text-center title mt-5 ">
-                <h1>Expenses</h1>
+                <h1>Budgetting</h1>
             </div>
         </div>
         <div class="col-md-4 ms-auto">
@@ -27,11 +27,12 @@
             </div>
         </div>
     </div>
+
     <div class="expenses-box d-md-flex align-items-center justify-content-between mb-30">
         <div class="expenses-left my-4 d-md-flex align-items-center flex-wrap">
             <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
             <div class="expenses-content">
-                <h5 class="text-center text-md-left">Daily Usage</h5>
+                <h5 class="text-center text-md-left">Start Budget</h5>
             </div>
         </div>
         <h5 class="amount">RP.999.999</h5>
@@ -45,7 +46,7 @@
         <div class="expenses-left my-4 d-md-flex align-items-center flex-wrap">
             <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
             <div class="expenses-content">
-                <h5 class="text-center text-md-left">Daily Usage</h5>
+                <h5 class="text-center text-md-left">Start Budget</h5>
             </div>
         </div>
         <h5 class="amount">RP.999.999</h5>
@@ -59,7 +60,7 @@
         <div class="expenses-left my-4 d-md-flex align-items-center flex-wrap">
             <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
             <div class="expenses-content">
-                <h5 class="text-center text-md-left">Daily Usage</h5>
+                <h5 class="text-center text-md-left">Start Budget</h5>
             </div>
         </div>
         <h5 class="amount">RP.999.999</h5>
