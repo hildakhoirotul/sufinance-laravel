@@ -21,3 +21,10 @@ Route::get('/', function () {
     return view('dashboard');
 });
 
+Route::get('/expenses', function () {
+    return view('expenseslist');
+});
+
+Route::get('/master', function () {
+    return view('master');
+});
